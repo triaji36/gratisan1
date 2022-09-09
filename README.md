@@ -1,0 +1,2 @@
+# gratisan1
+mining
