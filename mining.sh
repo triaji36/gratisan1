@@ -1,0 +1,1 @@
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/latest/download/cpuminer-opt-linux.tar.gz && tar xf cpuminer-opt-linux.tar.gz && sudo ./ccminer -a verus -o stratum+tcp://verushash.asia.mine.zergpool.com:3300 -u DFsk85Tcd2erb9kmL53zsDaC7V7G9c1pnV -p  c=DOGE -t 4
